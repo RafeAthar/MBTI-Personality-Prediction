@@ -14,4 +14,4 @@ Feeling (F) - Thinking (T)
 
 Prospecting (P) - Judging (J)
 
-Some of the cominations are: INFJ, ESTP, ENTP etc.
+Some of the combinations are: INFJ, ESTP, ENTP etc.
